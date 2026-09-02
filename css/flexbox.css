@@ -1,0 +1,16 @@
+.product-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.price-section {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
